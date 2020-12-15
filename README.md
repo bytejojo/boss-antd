@@ -1,6 +1,6 @@
 English | [简体中文](./README.zh-CN.md)
 
-<h1 align="center">Ant Design Vue Pro</h1>
+<h1 align="center">Business Operation Support System(BOSS)</h1>
 <div align="center">
 An out-of-box UI solution for enterprise applications as a Vue boilerplate. based on  <a href="https://bytejojo.github.io/boss-andt/docs/introduce-cn/" target="_blank">Ant Design of Vue</a>
 </div>
